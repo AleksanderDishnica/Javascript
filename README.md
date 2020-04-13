@@ -1,2 +1,2 @@
 # Javascript
-Javascript training
+Double diagonals of array in javascript
